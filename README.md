@@ -1,3 +1,3 @@
 # RepMary
 
-Apenas um teste
+Para entregas de projetos no GitHub
